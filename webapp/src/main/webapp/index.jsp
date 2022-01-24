@@ -34,6 +34,7 @@
    <h1> Thankyou, Happy Learning Kenny</h1>
    <h1> You have now enabled automated CI/CD Pipeline HELLO </h1>
    <h1> You have now completed the docker section. Next up is the ansible section.</h1>
+   <h1> Now you have set up your pipeline to run Ansible playbook automatically!</h1>
 
   
 </form>
