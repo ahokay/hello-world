@@ -36,6 +36,6 @@
    <h1> You have now completed the docker section. Next up is the ansible section.</h1>
    <h1> Now you have set up your pipeline to run Ansible playbook automatically!</h1>
    <h1> You can now automatically deploy your app to the dockerhost and push your image to the dockerhub using ansible.</h1>
-   <h1> Just one change </h1>
+   <h1> Just one change. </h1>
   
 </form>
